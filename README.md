@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
+<div align=center>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+</div>
 <!--
 **jyu9551/jyu9551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
