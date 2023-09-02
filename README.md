@@ -1,8 +1,8 @@
 # Hi, I'm Young-uk Cho 👋
 
-<div align="center" href="https://solved.ac/jyu9551">
-	<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyu9551">
-</div>
+<a align="right" href="https://solved.ac/jyu9551">
+	<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyu9551">
+</a>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
