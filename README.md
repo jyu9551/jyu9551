@@ -1,6 +1,7 @@
-
+<div align=center>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jyu9551)](https://solved.ac/{handle})
+</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
