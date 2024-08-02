@@ -1,5 +1,3 @@
-# Hi, I'm Young-uk Cho 👋
-
 <a align="left" href="https://solved.ac/jyu9551">
 	<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyu9551">
 </a>
