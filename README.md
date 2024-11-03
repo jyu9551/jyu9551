@@ -1,10 +1,26 @@
-<!--
 
+<!--
 <a align="left" href="https://solved.ac/jyu9551">
 	<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyu9551">
 </a>
+-->
+## Hi I'm Young-uk Cho
 
-<div align=center><h1>📚 STACKS</h1></div>
+my portfolio is on [this site](https://www.notion.so/Portfolio-1330e2b47a7a80d4a0a9df54e501b2cb?pvs=4)
+
+## Experiences
+🔭 I’m currently working on ...<br>
+🌱 I’m currently learning ...<br>
+👯 I’m looking to collaborate on ...<br>
+🤔 I’m looking for help with ... <br>
+💬 Ask me about ... <br>
+📫 How to reach me: ... <br>
+😄 Pronouns: ... <br>
+⚡ Fun fact: ... <br>
+
+
+
+<div align=center><h3>📚 STACKS</h3></div>
 <div align=center>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
@@ -18,16 +34,5 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">	
 </div>
 
-**jyu9551/jyu9551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
