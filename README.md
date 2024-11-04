@@ -7,10 +7,10 @@
 ## Hi I'm Young-uk Cho
 
 I graduated with a bachelor's degree in Embedded-Systems Engineering from Incheon National University.<br>
-My portfolio is on [this site](https://www.notion.so/Portfolio-1330e2b47a7a80d4a0a9df54e501b2cb?pvs=4)
+My portfolio is on [this site](https://www.notion.so/Portfolio-1330e2b47a7a80d4a0a9df54e501b2cb?pvs=4).
 
 ## Experiences
-**2024.05 - 2024.11** HL만도&HL클레무브 [Intelligent Vehicle School](https://edu.rapa.or.kr/recruitment/11015) 2기<br>
+- **2024.05 - 2024.11** HL만도&HL클레무브 [Intelligent Vehicle School](https://edu.rapa.or.kr/recruitment/11015) 2기 수료<br>
 
 
 <!--
